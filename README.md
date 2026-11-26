@@ -46,13 +46,9 @@ An area chart showing the distribution of diamonds across carat ranges and cut c
 
 ## 📂 Project Structure
 
-```text
-Dashboard2/
-│
-├── app.py
-└── README.md
 
-### Screenshot ###
+
+## Screenshot
 [dashboard-1](Screenshot/dashboard--1.png)
 [dashboard-2](Screenshot/dashboard--2.png)
 [dashboard-3](Screenshot/dashboard--3.png)
